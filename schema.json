@@ -1,0 +1,35 @@
+{
+  "details" : {
+    "movieName" : "name",
+    "mainImage" : "img url",
+    "screenShots" : ["ss1", "ss2", "ss3"],
+    "desc" : "some desc",
+    "otherAttr" : {
+      "duration" : "123:50",
+      "relaeseYear" : 2001,
+      "rating" : 5,
+      "casting" : ["name1", "name2"]
+    } 
+  },
+  "locations" : [
+    {
+      "site1" : "site name",
+      "watchUrl" : "url",
+      "downloadUrl" : "url",
+      "resolution" : "1250 x 1234",
+      "downloadSpeed" : "12mbps",
+      "fileFormat" : ["mkv", "avi", "flv"]
+    },
+    {
+      "site2" : "site name",
+      "watchUrl" : ["url"],
+      "downloadUrl" : ["url"],
+      "resolution" : "1250 x 1234",
+      "downloadSpeed" : "12mbps",
+      "fileFormat" : ["mkv", "avi", "flv"]
+    }
+  ]
+
+}
+
+//Todos - alternate urls, part files
