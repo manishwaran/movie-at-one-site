@@ -1,0 +1,16 @@
+dist/**/*.js
+**/*.log
+npm-debug.log
+node_modules/
+
+app/node_modules
+app/npm-debug.log
+
+#OS X
+.DS_Store
+
+#IDEA
+.idea*
+
+*.sublime-project
+*.sublime-workspace
