@@ -1,0 +1,18 @@
+{
+  "name": "movie-at-one-site",
+  "version": "0.0.0",
+  "description": "a portal for all downloadable links present accross the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manishwaran/movie-at-one-site.git"
+  },
+  "author": "manish, mani, shiva, thiyagu",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/manishwaran/movie-at-one-site/issues"
+  }
+}
